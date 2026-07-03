@@ -6,7 +6,7 @@
 
 **Cut the noise. Keep the meaning.**
 
-A skill that forces the clearest, shortest nonfiction prose that survives a tired reader.
+Forces the clearest, shortest nonfiction prose that survives a tired reader.
 
 </div>
 
@@ -49,7 +49,7 @@ Pre-emptive — it governs what you choose to write, not only what you cut. For 
 | **review** | Mark up a draft or diff. One line per finding — location, what, replacement. No rewrite. |
 | **audit** | Scan a whole document or folder. Findings ranked biggest cut first, plus structural tags. No rewrite. |
 
-Review and audit end on the only metric that matters: `net: -<N> words possible.` Nothing to cut: `Tight already. Ship.`
+Review and audit end on `net: -<N> words possible.` Nothing to cut: `Tight already. Ship.`
 
 ## Intensity
 
