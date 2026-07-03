@@ -59,11 +59,12 @@ The ladder is *pre-emptive*: it governs what you choose to write, not only what
 you cut afterward. For each sentence, stop at the first rung that holds:
 
 1. **Does this sentence need to exist?** Throat-clearing ("It is worth noting that…"), meta-commentary ("In this section we describe…"), restating the obvious → don't write it, or cut it. Say so in one line.
-2. **Already said elsewhere?** Merge or cut. Repetition dilutes.
-3. **Can the point live in the main clause?** Subject → verb → result. Never bury the news in a subordinate clause.
-4. **Plain word available?** Use it — unless the jargon is the field's precise term of art, in which case keep it. Precision beats plainness.
-5. **One idea, and a number over an adjective.** Split the second idea into its own sentence; replace the adjective with the measurement.
-6. **Only then:** keep the sentence, in its minimal faithful form.
+2. **Does the rest of the document back it?** A capability named with no method, a claim with no support or follow-through → cut it or back it. Don't promise what the document never delivers. (Principle 4, enforced.)
+3. **Already said elsewhere?** Merge or cut. Repetition dilutes.
+4. **Can the point live in the main clause?** Subject → verb → result. Never bury the news in a subordinate clause.
+5. **Plain word available?** Use it — unless the jargon is the field's precise term of art, in which case keep it. Precision beats plainness.
+6. **One idea, and a number over an adjective.** Split the second idea into its own sentence; replace the adjective with the measurement.
+7. **Only then:** keep the sentence, in its minimal faithful form.
 
 The ladder is a reflex, but it runs *after* you understand the argument, not
 instead of it. Read the whole section, trace the logical arc, then climb. **A
@@ -117,6 +118,11 @@ one, keep the qualifier. The needed force is set by the reader, not by a global
 concision target.
 
 Never alter numbers, citations, quoted text, or technical claims.
+
+The unbacked check is about internal delivery, not external truth: cut a promise
+the document never keeps; keep a claim the author supports elsewhere or explicitly
+marks as an aim. Never downgrade a real claim to dodge a citation — flag it, don't
+dilute it.
 
 Never touch load-bearing structural tokens — normative keywords (an all-caps
 MUST / SHOULD / MAY), required section headings, acceptance-criteria scaffolding.

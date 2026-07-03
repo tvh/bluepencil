@@ -24,6 +24,7 @@ Line tags:
 - `show:` adjective or bare assertion where a number or evidence belongs. Name the number.
 - `hedge:` hedge stack or reflexive CYA hedge (audience-conditional). Give the calibrated claim.
 - `plain:` needless jargon that is not a term of art. Give the plain word.
+- `unbacked:` a claim or promised capability the document never delivers — a method named with no path, a hook with no follow-through, a feature with one mention and no milestone. Replacement: nothing, or back it.
 
 Structural tags — document- or folder-wide, what a line scan can't see:
 
@@ -50,7 +51,8 @@ Structural tags — document- or folder-wide, what a line scan can't see:
 Sections that restate the abstract, paragraphs with no topic sentence, a thesis
 that never appears, the same claim repeated across sections, throat-clearing
 openings, hedge stacks, adjectives standing in for numbers, jargon that isn't a
-term of art.
+term of art, capabilities promised but never built, claims with no support or
+follow-through anywhere in the document.
 
 ## Scoring
 
