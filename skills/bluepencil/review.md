@@ -23,8 +23,14 @@ Line tags:
 - `verb:` nominalization or weak verb. Name the strong verb.
 - `show:` adjective or bare assertion where a number or evidence belongs. Name the number.
 - `hedge:` hedge stack or reflexive CYA hedge (audience-conditional). Give the calibrated claim.
-- `plain:` needless jargon that is not a term of art. Give the plain word.
+- `plain:` jargon the reader won't recognize and doesn't need. Give the plain word.
+- `term:` a clause spelling out what one term of art names in a word, for a reader who shares the vocabulary. Name it — the mirror of `plain:`.
 - `unbacked:` a claim or promised capability the document never delivers — a method named with no path, a hook with no follow-through, a feature with one mention and no milestone. Replacement: nothing, or back it.
+- `scaffold:` a heading, framing, or defined term built up for a single payoff. Collapse it into the point it wraps.
+
+`plain:` and `term:` are one rule split by audience, not two that disagree: name the
+term of art when the reader owns the vocabulary, spell it out when they don't. The
+audience picks the direction — never fire both on the same reader.
 
 Structural tags — document- or folder-wide, what a line scan can't see:
 
@@ -52,7 +58,8 @@ Sections that restate the abstract, paragraphs with no topic sentence, a thesis
 that never appears, the same claim repeated across sections, throat-clearing
 openings, hedge stacks, adjectives standing in for numbers, jargon that isn't a
 term of art, capabilities promised but never built, claims with no support or
-follow-through anywhere in the document.
+follow-through anywhere in the document, content that re-derives what a companion
+document already establishes (reference it instead).
 
 ## Scoring
 
