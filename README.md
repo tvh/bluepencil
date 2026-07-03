@@ -46,14 +46,13 @@ Pre-emptive — it governs what you choose to write, not only what you cut. For 
 | Mode | What it does |
 |------|--------------|
 | **writing** (default) | Draft or revise prose. The prose first, then ≤3 short notes only if a choice was non-obvious. |
-| **review** | Mark up a draft or diff. One line per finding — location, what, replacement. No rewrite. |
-| **audit** | Scan a whole document or folder. Findings ranked biggest cut first, plus structural tags. No rewrite. |
+| **review** | Mark up a diff, a passage, a whole document, or a folder. One line per finding — location, what, replacement. No rewrite. Document-wide, it adds structural tags (buried thesis, repeated claims) and ranks findings biggest cut first. |
 
-Review and audit end on `net: -<N> words possible.` Nothing to cut: `Tight already. Ship.`
+Review ends on `net: -<N> words possible.` Nothing to cut: `Tight already. Ship.`
 
 ## Intensity
 
-Primarily tunes *writing* aggressiveness; review and audit always find everything and rank it.
+Primarily tunes *writing* aggressiveness; review always finds everything.
 
 | Level | What changes |
 |-------|--------------|
@@ -66,11 +65,11 @@ Primarily tunes *writing* aggressiveness; review and audit always find everythin
 Blue Pencil is active on every response once loaded. Defaults: **writing** mode, **full** intensity.
 
 ```
-/bluepencil writing|review|audit     # switch mode
+/bluepencil writing|review           # switch mode
 /bluepencil lite|full|ultra          # switch intensity
 ```
 
-Ask it to tighten a paragraph, review a doc, or audit a folder — or just say "bluepencil", "tighten", "make it concise", "too wordy", "clarity pass", "review this doc", or "audit this doc". Turn it off with `stop bluepencil` or `normal mode`.
+Ask it to tighten a paragraph, review a diff, or review a whole doc or folder — or just say "bluepencil", "tighten", "make it concise", "too wordy", "clarity pass", "review this doc", or "audit this doc". Turn it off with `stop bluepencil` or `normal mode`.
 
 Mark deliberate deferrals with a `bluepencil:` comment in the source (`% bluepencil: citation needed`) — visible intent, not silent debt.
 
@@ -97,8 +96,7 @@ cp -R skills/bluepencil ~/.claude/skills/bluepencil
 ```
 skills/bluepencil/
   SKILL.md     # persona, seven principles, ladder, rules, writing mode
-  review.md    # review mode — line-tagged findings
-  audit.md     # audit mode — document-wide, ranked
+  review.md    # review mode — line + structural findings, diff to folder-wide
 ```
 
 ## License

@@ -1,14 +1,21 @@
 # Review mode
 
-Mark up a draft or a diff for what to cut. One line per finding: location, what,
-replacement. No rewrite — the deliverable is the findings list. The draft's best
-outcome is getting shorter.
+Mark up prose for what to cut — a diff, a passage, a whole document, or a folder.
+One line per finding: location, what, replacement. No rewrite — the deliverable is
+the findings list. The draft's best outcome is getting shorter.
+
+Scope scales with what you're handed:
+
+- **Diff or passage** — the seven line tags, each finding in place.
+- **Whole document or folder** — add the three structural tags a line scan can't
+  see, rank findings biggest cut first, and close on a one-line structural verdict
+  (the single highest-value change).
 
 ## Format
 
-`L<n>: <tag> <what>. <replacement>.` — or `<file>:L<n>: ...` across multiple files.
+`L<n>: <tag> <what>. <replacement>.` — or `<file>:L<n>: ...` across files.
 
-Tags:
+Line tags:
 
 - `cut:` throat-clearing, meta-commentary, redundancy. Replacement: nothing.
 - `merge:` two sentences carrying one idea, or a point already made elsewhere. Combine.
@@ -17,6 +24,12 @@ Tags:
 - `show:` adjective or bare assertion where a number or evidence belongs. Name the number.
 - `hedge:` hedge stack or reflexive CYA hedge (audience-conditional). Give the calibrated claim.
 - `plain:` needless jargon that is not a term of art. Give the plain word.
+
+Structural tags — document- or folder-wide, what a line scan can't see:
+
+- `struct:` a section that says nothing, or duplicates another. Cut or merge it.
+- `bury:` the document's point — thesis, recommendation, key result — never surfaces, or surfaces too late. Move it to the front.
+- `echo:` the same point made in three places. Keep the strongest, cut the rest.
 
 ## Examples
 
@@ -32,17 +45,24 @@ Tags:
 
 ✅ `L23: hedge: "may potentially suggest". "suggests" — this is a results claim, not a limitation.`
 
+## Hunt, document-wide
+
+Sections that restate the abstract, paragraphs with no topic sentence, a thesis
+that never appears, the same claim repeated across sections, throat-clearing
+openings, hedge stacks, adjectives standing in for numbers, jargon that isn't a
+term of art.
+
 ## Scoring
 
-End with `net: -<N> words possible.`
-
-If there is nothing to cut, say `Tight already. Ship.` and stop.
+End with `net: -<N> words possible.` Over a whole document, rank findings biggest
+cut first and add the one-line structural verdict. Nothing to cut: `Tight already.
+Ship.`
 
 ## Boundaries
 
-Scope: clarity and concision only. Fact-checking, the correctness of the
-underlying claims, and citation accuracy are out of scope — route them to a
-subject-matter review. Never flag load-bearing structure (required headings,
-normative keywords, acceptance criteria) or a load-bearing hedge for deletion.
-Lists findings, applies nothing. "stop bluepencil-review" / "normal mode":
-revert to verbose review style.
+Scope: clarity, concision, and — document-wide — structure. Fact-checking, the
+correctness of the underlying claims, and citation accuracy are out of scope —
+route them to a subject-matter review. Never flag load-bearing structure (required
+headings, normative keywords, acceptance criteria) or a load-bearing hedge for
+deletion. Lists findings, applies nothing. "stop bluepencil-review" / "normal
+mode": revert to verbose review style.

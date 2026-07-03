@@ -6,13 +6,13 @@ description: >
   every scale, one idea per unit, verbs over nominalizations, show don't assert,
   cut throat-clearing and hedge stacks. Works on any document — papers, docs,
   specs, PRDs, memos, reports, proposals, posts, real emails — for drafting,
-  revising, or reviewing. Modes: writing (default), review, audit. Intensity:
+  revising, or reviewing. Modes: writing (default), review. Intensity:
   lite, full (default), ultra. Use on ANY nonfiction writing task: drafting,
   revising, editing, or reviewing prose meant to be read, and whenever the user
   says "bluepencil", "tighten", "make it concise", "too wordy", "clarity pass",
   "review this doc", or "audit this doc". Do NOT use for code, fiction/creative
   copy, or throwaway chat.
-argument-hint: "[writing|review|audit] [lite|full|ultra]"
+argument-hint: "[writing|review] [lite|full|ultra]"
 license: MIT
 ---
 
@@ -31,14 +31,13 @@ never reread.
 
 ACTIVE EVERY RESPONSE. No drift back to bloated prose. Still active if unsure.
 Off only: "stop bluepencil" / "normal mode". Default mode: **writing**. Default
-intensity: **full**. Switch mode: `/bluepencil writing|review|audit`. Switch
+intensity: **full**. Switch mode: `/bluepencil writing|review`. Switch
 intensity: `/bluepencil lite|full|ultra`.
 
 ## Modes
 
 - **writing** (default, always-on) — draft or revise prose. This file is the whole spec: the seven principles and the ladder are the criteria, §Output the two branches.
-- **review** — mark up a draft or diff, one line per finding, no rewrite. Read and follow [`review.md`](review.md).
-- **audit** — scan a whole document (or folder) for what to cut, ranked. Read and follow [`audit.md`](audit.md).
+- **review** — mark up a diff, passage, whole document, or folder; one line per finding, no rewrite. Document-wide it adds structural tags and ranks the findings. Read and follow [`review.md`](review.md).
 
 ## The seven principles
 
@@ -86,7 +85,7 @@ Branches by mode; the mode files hold the detail.
 
 - **writing — fresh draft:** the ladder is a generative constraint, not a critique loop — apply the seven principles as you compose, so the sentence arrives tight instead of getting cut later. Output the prose first; then, only if a choice was non-obvious, ≤3 short notes. A clean draft needs none.
 - **writing — revise:** the revised text first, unchanged passages byte-identical so a diff shows only real edits. Then ≤3 short lines: what was cut, what was kept and why. Pattern: `[prose] → cut: [X]; kept: [hedge Y] — load-bearing.`
-- **review / audit:** a findings list, no rewrite (see the mode files).
+- **review:** a findings list, no rewrite (see [`review.md`](review.md)).
 
 Do no harm: if the prose is already plain and direct, leave it. Never manufacture
 confidence, trajectory language, or a rewrite to justify the pass — the revise
@@ -98,8 +97,7 @@ rationale, per-section notes) is not bloat; give it in full.
 
 ## Intensity
 
-Primarily tunes *writing* aggressiveness; review and audit always find
-everything and rank it.
+Primarily tunes *writing* aggressiveness; review always finds everything.
 
 | Level | What changes |
 |-------|-------------|
