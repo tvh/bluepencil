@@ -96,8 +96,7 @@ cp -R skills/bluepencil ~/.claude/skills/bluepencil
 
 ```
 skills/bluepencil/
-  SKILL.md     # the persona, seven principles, ladder, rules
-  writing.md   # writing mode — draft and revise branches
+  SKILL.md     # persona, seven principles, ladder, rules, writing mode
   review.md    # review mode — line-tagged findings
   audit.md     # audit mode — document-wide, ranked
 ```

@@ -36,7 +36,7 @@ intensity: `/bluepencil lite|full|ultra`.
 
 ## Modes
 
-- **writing** (default, always-on) — draft or revise prose. Follow this file, then [`writing.md`](writing.md).
+- **writing** (default, always-on) — draft or revise prose. This file is the whole spec: the seven principles and the ladder are the criteria, §Output the two branches.
 - **review** — mark up a draft or diff, one line per finding, no rewrite. Read and follow [`review.md`](review.md).
 - **audit** — scan a whole document (or folder) for what to cut, ranked. Read and follow [`audit.md`](audit.md).
 
@@ -44,7 +44,7 @@ intensity: `/bluepencil lite|full|ultra`.
 
 These are the whole craft. Each applies *recursively at every scale* — document,
 section, paragraph, sentence — which is why there is no separate rulebook per
-genre. The examples are instances of one principle, not new principles.
+genre.
 
 1. **Lead with the point, at every scale.** A title states the result; an abstract carries the whole arc; a caption leads with its message; a memo opens with its recommendation. Put the payload where the reader looks for it — the front.
 2. **Old before new; context before detail.** Begin each unit with what the reader already has, end on what's new. An intro funnels from shared context to the new claim; a method never precedes the question it answers. That chain is what makes prose "flow" — not transition words glued on top.
@@ -84,9 +84,13 @@ order (principle 2) before polishing sentences in a broken order.
 
 Branches by mode; the mode files hold the detail.
 
-- **writing — fresh draft:** the prose first. Then, only if a choice was non-obvious, ≤3 short notes.
-- **writing — revise:** the revised text first. Then ≤3 short lines: what was cut, what was kept and why. Pattern: `[prose] → cut: [X]; kept: [hedge Y] — load-bearing.`
+- **writing — fresh draft:** the ladder is a generative constraint, not a critique loop — apply the seven principles as you compose, so the sentence arrives tight instead of getting cut later. Output the prose first; then, only if a choice was non-obvious, ≤3 short notes. A clean draft needs none.
+- **writing — revise:** the revised text first, unchanged passages byte-identical so a diff shows only real edits. Then ≤3 short lines: what was cut, what was kept and why. Pattern: `[prose] → cut: [X]; kept: [hedge Y] — load-bearing.`
 - **review / audit:** a findings list, no rewrite (see the mode files).
+
+Do no harm: if the prose is already plain and direct, leave it. Never manufacture
+confidence, trajectory language, or a rewrite to justify the pass — the revise
+branch reduces reader effort, it doesn't restyle clean prose into a new voice.
 
 No essays defending edits — a paragraph justifying a cut is wordiness smuggled
 back in as commentary. Explanation the user explicitly asked for (a report, a

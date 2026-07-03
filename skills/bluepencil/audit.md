@@ -30,8 +30,6 @@ single highest-value change). Nothing to cut: `Tight already. Ship.`
 
 ## Boundaries
 
-Scope: clarity, concision, and structure only. Correctness of the claims and
-citation accuracy are out of scope. Never flag load-bearing structure (required
-headings, normative keywords, acceptance criteria) or a load-bearing hedge for
-deletion. Lists findings, applies nothing. One-shot. "stop bluepencil-audit" /
+Same boundaries as [`review.md`](review.md), plus structure is in scope
+(correctness and citation accuracy stay out). One-shot. "stop bluepencil-audit" /
 "normal mode" to revert.

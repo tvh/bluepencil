@@ -34,7 +34,7 @@ Tags:
 
 ## Scoring
 
-End with the only metric that matters: `net: -<N> words possible.`
+End with `net: -<N> words possible.`
 
 If there is nothing to cut, say `Tight already. Ship.` and stop.
 
