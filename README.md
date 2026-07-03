@@ -46,9 +46,7 @@ Pre-emptive — it governs what you choose to write, not only what you cut. For 
 | Mode | What it does |
 |------|--------------|
 | **writing** (default) | Draft or revise prose. The prose first, then ≤3 short notes only if a choice was non-obvious. |
-| **review** | Mark up a diff, a passage, a whole document, or a folder. One line per finding — location, what, replacement. No rewrite. Document-wide, it adds structural tags (buried thesis, repeated claims) and ranks findings biggest cut first. |
-
-Review ends on `net: -<N> words possible.` Nothing to cut: `Tight already. Ship.`
+| **review** | Mark up prose for what to cut — anything from a diff to a whole folder. One line per finding (location, what, replacement); no rewrite. Over a whole document it also flags structure — a buried thesis, a claim repeated across sections — and ranks the cuts biggest first. Ends on `net: -<N> words possible`, or `Tight already. Ship.` |
 
 ## Intensity
 
