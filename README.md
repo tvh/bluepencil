@@ -101,4 +101,4 @@ skills/bluepencil/
 
 ## License
 
-MIT
+[MIT](LICENSE)
