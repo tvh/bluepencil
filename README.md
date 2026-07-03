@@ -46,7 +46,7 @@ Pre-emptive — it governs what you choose to write, not only what you cut. For 
 | Mode | What it does |
 |------|--------------|
 | **writing** (default) | Draft or revise prose. The prose first, then ≤3 short notes only if a choice was non-obvious. |
-| **review** | Mark up prose for what to cut — anything from a diff to a whole folder. One line per finding (location, what, replacement); no rewrite. Over a whole document it also flags structure — a buried thesis, a claim repeated across sections — and ranks the cuts biggest first. Ends on `net: -<N> words possible`, or `Tight already. Ship.` |
+| **review** | Mark up prose for what to cut — anything from a diff to a whole folder. One line per finding (location, what, replacement); no rewrite. Over a document it also flags structure — a buried thesis, a claim repeated across sections — and ranks the cuts biggest first. Ends on `net: -<N> words possible`, or `Tight already. Ship.` |
 
 ## Intensity
 
@@ -67,7 +67,7 @@ Blue Pencil is active on every response once loaded. Defaults: **writing** mode,
 /bluepencil lite|full|ultra          # switch intensity
 ```
 
-Ask it to tighten a paragraph, review a diff, or review a whole doc or folder — or just say "bluepencil", "tighten", "make it concise", "too wordy", "clarity pass", "review this doc", or "audit this doc". Turn it off with `stop bluepencil` or `normal mode`.
+Ask it to tighten a paragraph, review a diff, or a whole doc or folder — or just say "bluepencil", "tighten", "make it concise", "too wordy", "clarity pass", "review this doc", or "audit this doc". Turn it off with `stop bluepencil` or `normal mode`.
 
 Mark deliberate deferrals with a `bluepencil:` comment in the source (`% bluepencil: citation needed`) — visible intent, not silent debt.
 
@@ -99,7 +99,7 @@ skills/bluepencil/
 
 ## Credits
 
-Structure and design modeled on [ponytail](https://github.com/DietrichGebert/ponytail) — the same skill does for over-engineered code what Blue Pencil does for over-written prose.
+Structure and design modeled on [ponytail](https://github.com/DietrichGebert/ponytail) — it does for over-engineered code what Blue Pencil does for over-written prose.
 
 ## License
 
