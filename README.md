@@ -99,6 +99,10 @@ skills/bluepencil/
   review.md    # review mode — line + structural findings, diff to folder-wide
 ```
 
+## Credits
+
+Structure and design modeled on [ponytail](https://github.com/DietrichGebert/ponytail) — the same skill does for over-engineered code what Blue Pencil does for over-written prose.
+
 ## License
 
 [MIT](LICENSE)
