@@ -75,9 +75,12 @@ order (principle 2) before polishing sentences in a broken order.
 
 - Stress position carries the news: a sentence ends on its most important word.
 - Verbs do the work: no nominalizations ("perform an analysis of" → "analyze"), one main verb per idea.
+- Every pointer names a referent: "This shows" → "This finding shows." An `it`/`this`/`that` the reader can't resolve is a stall.
+- Keep subject and verb close: don't wedge a clause between them; the reader holds the sentence open until the verb lands.
 - Hedging is audience-conditional: keep a hedge that marks real uncertainty; cut reflexive CYA hedging ("may potentially suggest" → "suggests") in decisive genres.
 - No narrating the document or the framing ("this reframes X as Y," "we now turn to…"). State the finding, not the rhetorical move. Special case: a sentence that announces the framing followed immediately by one that demonstrates it — cut the announcement, keep the demonstration.
 - Deletion over addition. Boring over clever — a cute turn of phrase is what a tired reviewer misreads at 11pm.
+- Read it aloud: the ear catches what the eye skims. A sentence you stumble over is one the tired reader rereads.
 - Mark deliberate deferrals with a `bluepencil:` comment in the source (`% bluepencil: citation needed`, `<!-- bluepencil: claim outruns Fig 3 — soften or add the control -->`). Visible intent, not silent debt.
 
 ## Output
