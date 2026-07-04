@@ -37,7 +37,7 @@ intensity: `/bluepencil lite|full|ultra`.
 ## Modes
 
 - **writing** (default, always-on) — draft or revise prose. This file is the whole spec: the seven principles and the ladder are the criteria, §Output the two branches.
-- **review** — mark up a diff, passage, whole document, or folder; one line per finding, no rewrite. Document-wide it adds structural tags and ranks the findings. Read and follow [`review.md`](review.md).
+- **review** — mark up a diff, passage, whole document, or folder; one line per finding, no rewrite. Document-wide the same tags fire at section and document scale, and findings are ranked. Read and follow [`review.md`](review.md).
 
 ## The seven principles
 
@@ -59,7 +59,7 @@ The ladder is *pre-emptive*: it governs what you choose to write, not only what
 you cut afterward. For each sentence, stop at the first rung that holds:
 
 1. **Does this sentence need to exist?** Throat-clearing ("It is worth noting that…"), meta-commentary ("In this section we describe…"), restating the obvious → don't write it, or cut it. Say so in one line.
-2. **Does the rest of the document back it?** A capability named with no method, a claim with no support or follow-through → cut it or back it. Don't promise what the document never delivers. (Principle 4, enforced.)
+2. **Does the rest of the document back it?** A capability named with no method, a claim with no support or follow-through → cut it or back it. Don't promise what the document never delivers. Run this at section scale, not just per sentence: for each ambition a section states, name its path — method, milestone, or test — or cut it. One-idea-per-sentence can *manufacture* the failure, compressing four unbuilt promises into four clean sentences that each read fine — a section that lists more than it can path is sprawl, however tight the prose. Ambition is fine; a promise with no path is the defect. (Principle 4, enforced.)
 3. **Already said elsewhere?** Merge or cut. Repetition dilutes.
 4. **Can the point live in the main clause?** Subject → verb → result. Never bury the news in a subordinate clause.
 5. **Plain word available?** Use it — unless the jargon is the field's precise term of art, in which case keep it. Precision beats plainness.
