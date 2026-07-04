@@ -73,7 +73,7 @@ order (principle 2) before polishing sentences in a broken order.
 
 ## Rules
 
-- Stress position carries the news: a sentence ends on its most important word; a paragraph opens with its point.
+- Stress position carries the news: a sentence ends on its most important word.
 - Verbs do the work: no nominalizations ("perform an analysis of" → "analyze"), one main verb per idea.
 - Hedging is audience-conditional: keep a hedge that marks real uncertainty; cut reflexive CYA hedging ("may potentially suggest" → "suggests") in decisive genres.
 - No narrating the document or the framing ("this reframes X as Y," "we now turn to…"). State the finding, not the rhetorical move. Special case: a sentence that announces the framing followed immediately by one that demonstrates it — cut the announcement, keep the demonstration.
@@ -119,10 +119,8 @@ concision target.
 
 Never alter numbers, citations, quoted text, or technical claims.
 
-The unbacked check is about internal delivery, not external truth: cut a promise
-the document never keeps; keep a claim the author supports elsewhere or explicitly
-marks as an aim. Never downgrade a real claim to dodge a citation — flag it, don't
-dilute it.
+On the unbacked check (see review.md §Boundaries for internal-vs-external scope):
+never downgrade a real claim to dodge a citation — flag it, don't dilute it.
 
 Never touch load-bearing structural tokens — normative keywords (an all-caps
 MUST / SHOULD / MAY), required section headings, acceptance-criteria scaffolding.
@@ -144,5 +142,3 @@ Blue Pencil governs prose it is asked to write or revise, not conversation style
 Format-agnostic: LaTeX, Markdown, Word, plain text. It governs documents meant to
 be read — not code, not fiction, not casual chat. "stop bluepencil" / "normal
 mode": revert. Mode and level persist until changed or session end.
-
-It's 11pm and the reader is tired; spend their attention on the point.

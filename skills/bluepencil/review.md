@@ -77,11 +77,10 @@ with `unbacked:`:
 - a whole section that lists more ambitions than it can support, one sentence each, none with a path. Cite the section range; the unit is over-scoped, not any single line. Cut to the ones with tools in hand.
 - a hook with no follow-through ("bears on disease," "opens the door to") — cut the hook or deliver on it.
 
-Ambition is not the defect — a plan is *supposed* to promise unbuilt work. The
-defect is a promise with no path. "I will do X" is a finding; "I will do X via
-method Y, reaching milestone Z" is not. (Principle 4: aim = question + approach +
-expected outcome.) Never flag a claim the author supports elsewhere or explicitly
-marks as an aim with a path.
+The defect is the missing path, not the ambition. "I will do X" is a finding; "I
+will do X via method Y, reaching milestone Z" is not. (Principle 4: aim = question
++ approach + expected outcome.) Never flag a claim the author supports elsewhere or
+explicitly marks as an aim with a path.
 
 ## Scoring
 
