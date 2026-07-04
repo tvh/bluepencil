@@ -24,7 +24,7 @@ Tags:
 - `cut:` delete, no replacement — throat-clearing, meta-commentary, a framing built for a single payoff, a section that says nothing.
 - `dupe:` said more than once — two sentences carrying one idea, a point already made, the same claim across sections. Combine if adjacent; keep the strongest and cut the rest if scattered. Exception: a figure caption and the body are read independently — readers scan captions first, and out of order — so caption↔body overlap is load-bearing, not a dupe. At most flag an over-long caption to trim; never cut a shared claim out of either.
 - `order:` the point isn't at the front — buried in a subordinate clause, old-before-new, or a thesis/recommendation that never surfaces or surfaces too late. Move it to the front.
-- `unbacked:` a promise with no path — a capability named once with no method, milestone, or test; a hook with no follow-through; or a whole section that lists more ambitions than it can support. Back it or cut it.
+- `unbacked:` a promise with no path — a capability, hook, or whole section named with no method, milestone, or test. Back it or cut it. (Pass 2 works the cases.)
 - `verb:` nominalization or weak verb. Name the strong verb.
 - `show:` adjective or bare assertion where a number or evidence belongs. Name the number.
 - `hedge:` hedge stack or reflexive CYA hedge (audience-conditional). Give the calibrated claim.
@@ -94,8 +94,7 @@ on a promise the document breaks. Clean on both passes: `Nothing to cut, nothing
 
 Scope: clarity, concision, and — document-wide — structure and earned claims.
 Internal delivery is in scope; external truth is not. Whether the document backs
-its own claim — a method with no path, a section that promises more than it
-builds — is yours to flag (`unbacked:`). Whether the claim is true in the world,
+its own claim is yours to flag (`unbacked:`). Whether the claim is true in the world,
 the citations, the underlying science: out of scope — route to a subject-matter
 review. Never flag load-bearing structure (required headings, normative keywords,
 acceptance criteria) or a load-bearing hedge for deletion. Lists findings, applies
