@@ -55,7 +55,7 @@ Tags:
 Two passes, both required. Concision is one axis; delivery is the other. A
 sentence can be tight, clear, and still a finding — because it promises what the
 document never builds. Pass 1 catches words the reader shouldn't spend; Pass 2
-catches claims the document doesn't earn. Run both.
+catches claims the document doesn't earn.
 
 **Pass 1 — reader effort (concision).** Sections that restate the abstract,
 paragraphs with no topic sentence, a thesis that never appears (`order:`),
@@ -63,8 +63,8 @@ throat-clearing openings, hedge stacks, adjectives standing in for numbers,
 jargon that isn't a term of art, the same claim repeated across sections
 (`dupe:`) — matched on the claim's gist, not its wording: three differently
 phrased sentences that all promise "the theory meets data" are one refrain, cut
-to one — content that re-derives what a companion document already establishes
-(reference it instead).
+to one. Cut too any content that re-derives what a companion document already
+establishes — reference it instead.
 
 **Pass 2 — earned claims (delivery).** Go claim by claim, paragraph by paragraph,
 to the end, and for each ask both *where is the path?* — the method, the
