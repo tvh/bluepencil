@@ -33,11 +33,12 @@ The whole craft, applied recursively at every scale — document, section, parag
 Pre-emptive — it governs what you choose to write, not only what you cut. For each sentence, stop at the first rung that holds:
 
 1. **Does this sentence need to exist?** Throat-clearing, meta-commentary, restating the obvious → don't write it.
-2. **Already said elsewhere?** Merge or cut.
-3. **Can the point live in the main clause?** Subject → verb → result. Never bury the news in a subordinate clause.
-4. **Plain word available?** Use it — unless the jargon is the field's precise term of art.
-5. **One idea, and a number over an adjective.** Split the second idea out; replace the adjective with the measurement.
-6. **Only then:** keep the sentence, in its minimal faithful form.
+2. **Does the rest of the document back it?** A capability or claim named with no method, milestone, or follow-through → cut it or back it. Ambition is fine; a promise with no path is the defect.
+3. **Already said elsewhere?** Merge or cut.
+4. **Can the point live in the main clause?** Subject → verb → result. Never bury the news in a subordinate clause.
+5. **Plain word available?** Use it — unless the jargon is the field's precise term of art.
+6. **One idea, and a number over an adjective.** Split the second idea out; replace the adjective with the measurement.
+7. **Only then:** keep the sentence, in its minimal faithful form.
 
 > A confusing paragraph is a structure problem, not a word problem — check the order before polishing sentences in a broken order.
 
@@ -46,7 +47,7 @@ Pre-emptive — it governs what you choose to write, not only what you cut. For 
 | Mode | What it does |
 |------|--------------|
 | **writing** (default) | Draft or revise prose. The prose first, then ≤3 short notes only if a choice was non-obvious. |
-| **review** | Mark up prose for what to cut — anything from a diff to a whole folder. One line per finding (location, what, replacement); no rewrite. Over a document it also flags structure — a buried thesis, a claim repeated across sections — and ranks the cuts biggest first. Ends on `net: -<N> words possible`, or `Tight already. Ship.` |
+| **review** | Mark up prose for what to cut — anything from a diff to a whole folder. One line per finding (location, what, replacement); no rewrite. Over a document it also flags structure and unearned claims — a buried thesis, a claim repeated across sections, a promise the document never keeps — and ranks the cuts biggest first. Ends on `net: -<N> words possible`, or `Nothing to cut, nothing unbacked. Leave it as written.` |
 
 ## Intensity
 
