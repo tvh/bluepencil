@@ -22,7 +22,7 @@ you cite says which.
 Tags:
 
 - `cut:` delete, no replacement — throat-clearing, meta-commentary, a framing built for a single payoff, a section that says nothing.
-- `dupe:` said more than once — two sentences carrying one idea, a point already made, the same claim across sections. Combine if adjacent; keep the strongest and cut the rest if scattered.
+- `dupe:` said more than once — two sentences carrying one idea, a point already made, the same claim across sections. Combine if adjacent; keep the strongest and cut the rest if scattered. Exception: a figure caption and the body are read independently — readers scan captions first, and out of order — so caption↔body overlap is load-bearing, not a dupe. At most flag an over-long caption to trim; never cut a shared claim out of either.
 - `order:` the point isn't at the front — buried in a subordinate clause, old-before-new, or a thesis/recommendation that never surfaces or surfaces too late. Move it to the front.
 - `unbacked:` a promise with no path — a capability named once with no method, milestone, or test; a hook with no follow-through; or a whole section that lists more ambitions than it can support. Back it or cut it.
 - `verb:` nominalization or weak verb. Name the strong verb.
@@ -61,7 +61,9 @@ catches claims the document doesn't earn. Run both.
 paragraphs with no topic sentence, a thesis that never appears (`order:`),
 throat-clearing openings, hedge stacks, adjectives standing in for numbers,
 jargon that isn't a term of art, the same claim repeated across sections
-(`dupe:`), content that re-derives what a companion document already establishes
+(`dupe:`) — matched on the claim's gist, not its wording: three differently
+phrased sentences that all promise "the theory meets data" are one refrain, cut
+to one — content that re-derives what a companion document already establishes
 (reference it instead).
 
 **Pass 2 — earned claims (delivery).** Go claim by claim, paragraph by paragraph,
