@@ -22,7 +22,7 @@ you cite says which.
 Tags:
 
 - `cut:` delete, no replacement — throat-clearing, meta-commentary, a framing built for a single payoff, a section that says nothing.
-- `dupe:` said more than once — two sentences carrying one idea, a point already made, the same claim across sections. Combine if adjacent; keep the strongest and cut the rest if scattered. Exception: a figure caption and the body are read independently — readers scan captions first, and out of order — so caption↔body overlap is load-bearing, not a dupe. At most flag an over-long caption to trim; never cut a shared claim out of either.
+- `dupe:` said more than once — two sentences carrying one idea, a point already made, the same claim across sections. Combine if adjacent; keep the strongest and cut the rest if scattered. Load-bearing repetition is not a dupe: a deliberate bookend, a topic sentence and its elaboration, a plain-language gloss calibrating a technical claim, or units read independently and out of order (a figure caption and its body) all earn the repeat. Test: cut the second instance — does the reader lose orientation, emphasis, or audience access? If yes, keep it; flag only the echo that adds nothing.
 - `order:` the point isn't at the front — buried in a subordinate clause, old-before-new, or a thesis/recommendation that never surfaces or surfaces too late. Move it to the front.
 - `unbacked:` a promise with no path — a capability, hook, or whole section named with no method, milestone, or test. Back it or cut it. (Pass 2 works the cases.)
 - `verb:` nominalization or weak verb. Name the strong verb.
@@ -69,9 +69,10 @@ establishes — reference it instead.
 **Pass 2 — earned claims (delivery).** Go claim by claim, paragraph by paragraph,
 to the end, and for each ask both *where is the path?* — the method, the
 milestone, the testable prediction — and *have I read this idea already?* A yes to
-the second is a `dupe:`, however small or far apart — a claim restated as its own
-metaphor a sentence later, or a peroration echoed at the close, both count. Flag
-with `unbacked:`:
+the second is a `dupe:` — unless the repeat is load-bearing (see the `dupe:` tag) —
+however small or far apart: a claim restated as its own metaphor a sentence later
+counts; a peroration that deliberately returns to the opening thesis for emphasis
+does not. Flag with `unbacked:`:
 
 - a capability named once with no method, milestone, or test — **even if the sentence is tight and clear**. Concision does not exempt it.
 - a whole section that lists more ambitions than it can support, one sentence each, none with a path. Cite the section range; the unit is over-scoped, not any single line. Cut to the ones with tools in hand.
