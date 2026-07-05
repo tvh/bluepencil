@@ -84,10 +84,8 @@ Mark deliberate deferrals with a `bluepencil:` comment in the source (`% bluepen
 
 ## Install
 
-Copy the skill into your Claude Code skills directory:
-
 ```bash
-cp -R skills/bluepencil ~/.claude/skills/bluepencil
+npx skills add tvh/bluepencil
 ```
 
 ## Layout
