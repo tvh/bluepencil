@@ -36,7 +36,7 @@ intensity: `/bluepencil lite|full|ultra`.
 
 ## Modes
 
-- **writing** (default, always-on) — draft or revise prose. This file is the whole spec: the seven principles and the ladder are the criteria, §Output the two branches.
+- **writing** (default, always-on) — draft or revise prose. This file is the whole spec: the seven principles and the ladder are the criteria; see §Output for the two branches.
 - **review** — mark up a diff, passage, whole document, or folder; one line per finding, no rewrite. Document-wide the same tags fire at section and document scale, and findings are ranked. Read and follow [`review.md`](review.md).
 
 ## The seven principles

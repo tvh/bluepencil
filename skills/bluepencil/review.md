@@ -2,7 +2,7 @@
 
 Mark up prose for what to cut — a diff, a passage, a whole document, or a folder.
 One line per finding: location, what, replacement. No rewrite — the deliverable is
-the findings list. The draft's best outcome is getting shorter.
+the findings list.
 
 Scope scales with what you're handed:
 
@@ -98,4 +98,4 @@ its own claim is yours to flag (`unbacked:`). Whether the claim is true in the w
 the citations, the underlying science: out of scope — route to a subject-matter
 review. Never flag load-bearing structure (required headings, normative keywords,
 acceptance criteria) or a load-bearing hedge for deletion. Lists findings, applies
-nothing. "stop bluepencil-review" / "normal mode": revert to verbose review style.
+nothing.
