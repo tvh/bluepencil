@@ -25,7 +25,7 @@ The whole craft, applied recursively at every scale — document, section, parag
 3. **One idea per unit.** One sentence, one point; one paragraph, one topic; one document, one thesis.
 4. **Every claim carries its support and its limits.** A claim with neither evidence nor scope is a hope, not a finding.
 5. **Show, don't assert — a number over an adjective.** "3.2-fold," not "substantially." "p95 < 500 ms," not "fast."
-6. **Match certainty to the reader's need for a decision.** Keep the hedge that marks real uncertainty; cut reflexive CYA hedging in decisive genres.
+6. **Match certainty to the reader's need for a decision.** Keep the hedge that marks real uncertainty; cut reflexive defensive hedging in decisive genres.
 7. **Respect load-bearing structure.** Never cut a Non-Goals section, required heading, normative keyword, or acceptance criterion as "throat-clearing."
 
 ## The ladder
