@@ -9,8 +9,7 @@ Scope scales with what you're handed:
 - **Diff or passage** — each finding in place, tagged.
 - **Whole document or folder** — the same tags, now firing at section and document
   scale too (a buried thesis, a claim echoed across sections, an over-scoped
-  section); rank findings biggest cut first, and close on a one-line structural
-  verdict (the single highest-value change).
+  section); ranked and closed with a structural verdict (see Scoring).
 
 ## Format
 
